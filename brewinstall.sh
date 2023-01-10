@@ -22,9 +22,10 @@ CASKS=(
     discord
     notational-velocity
     loom
-    zoomus
+    zoom
     notion
     github
+    warp
 )
 
 echo "Starting bootstrapping"
