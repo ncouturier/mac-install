@@ -10,6 +10,7 @@ PACKAGES=(
     mas
     gh
     stow
+    poetry
 )
 
 CASKS=(
@@ -28,6 +29,7 @@ CASKS=(
     zoom
     notion
     warp
+    intellij-idea
 )
 
 echo "Starting bootstrapping"
