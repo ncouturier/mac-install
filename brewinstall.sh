@@ -11,6 +11,8 @@ PACKAGES=(
     gh
     stow
     poetry
+    clojure/tools/clojure
+    coursier
 )
 
 CASKS=(
