@@ -7,6 +7,9 @@ PACKAGES=(
     postgresql
     python
     python3
+    mas
+    gh
+    stow
 )
 
 CASKS=(
@@ -24,7 +27,6 @@ CASKS=(
     loom
     zoom
     notion
-    github
     warp
 )
 
