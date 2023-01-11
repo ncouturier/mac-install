@@ -13,6 +13,8 @@ PACKAGES=(
     poetry
     clojure/tools/clojure
     coursier
+    chezmoi
+    pyenv
 )
 
 CASKS=(
@@ -26,12 +28,13 @@ CASKS=(
     obsidian
     cron
     discord
+    slack
     notational-velocity
     loom
     zoom
     notion
     warp
-    intellij-idea
+    intellij-idea-ce
 )
 
 echo "Starting bootstrapping"
