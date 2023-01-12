@@ -15,6 +15,7 @@ PACKAGES=(
     coursier
     chezmoi
     pyenv
+    fig
 )
 
 CASKS=(
